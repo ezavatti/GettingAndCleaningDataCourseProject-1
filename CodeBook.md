@@ -14,7 +14,7 @@ This code book describe the fields of the output dataset in `tidy_dataset.txt`.
 * LAYING
 
 ## Measurement value fields
-There are 66 features were calcultated from original dataset as below:
+There are 66 feature variables with its means grouped by subject and activitiy, calcultated from original dataset as below:
 * 'timeBodyAccelerometerMeanX'
 * 'timeBodyAccelerometerMeanY'
 * 'timeBodyAccelerometerMeanZ'
