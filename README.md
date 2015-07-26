@@ -14,4 +14,4 @@ install.package("reshape2")
 
 After the execution of [run_analysis.R](https://github.com/vinceyap88/GettingAndCleaningDataCourseProject/blob/master/run_analysis.R), the output dataset will be generated at [tidy_dataset.txt](https://github.com/vinceyap88/GettingAndCleaningDataCourseProject/blob/master/tidy_dataset.txt)
 
-The description of the generated dataset can be found in [CookBook.md](https://github.com/vinceyap88/GettingAndCleaningDataCourseProject/blob/master/tidy_dataset.txt)
+The description of the generated dataset can be found in [CookBook.md](https://github.com/vinceyap88/GettingAndCleaningDataCourseProject/blob/master/CookBook.md)
